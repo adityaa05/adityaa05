@@ -5,8 +5,29 @@
 
 ---
 
-### About Me
-I'm a final-year IT Engineering student passionate about building beautiful mobile apps with Flutter and diving deep into the world of Data Science and AI. My goal is to leverage Flutter to create interactive applications that showcase the power of machine learning models.
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>✍️ About Me</h3>
+      <p>
+        I'm an analytical problem-solver on a clear path to becoming a <strong>Data Scientist</strong>, with a proven track record in data analysis, AI engineering, and application development.
+      </p>
+      <p>
+        In my roles as a <strong>Data Analyst Intern</strong> at Imarticus and now as an <strong>AI Engineer Intern</strong>, I've gained deep, practical experience in <strong>SQL, EDA, Power BI dashboards, and backend AI service integration</strong>. I thrive in end-to-end data workflows, from initial querying to deploying intelligent features.
+      </p>
+      <p>
+        What sets me apart is my ability to make data accessible and impactful. With a strong background in <strong>Flutter</strong> development—<strong>including a freelance app with over 50 active users</strong>—I don't just analyze data; I build compelling applications to visualize and interact with it.
+      </p>
+      <p>
+        When I'm not working with data, I apply the same discipline and creativity to running marathons and filmmaking.
+      </p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/adityaa05/adityaa05/main/687474~1.GIF" alt="Pinky and the Brain planning" />
+    </td>
+  </tr>
+</table>
 
 ---
 ### Skills
@@ -47,6 +68,10 @@ I'm a final-year IT Engineering student passionate about building beautiful mobi
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
 </div>
 
 ### Currently Learning...
