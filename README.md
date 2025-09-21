@@ -17,24 +17,20 @@ I'm a final-year IT Engineering student passionate about building beautiful mobi
 ### 💻 Main Skills & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,dart,js,flutter" />
+    <img src="https://skillicons.dev/icons?i=py,dart,js,flutter,nodejs,fastapi,django,flask,pandas,numpy&theme=dark&v=1" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask" />
+    <img src="https://skillicons.dev/icons?i=sklearn,matplotlib,pytorch,tensorflow,powerbi,mysql,postgresql,mongodb,firebase,supabase&theme=dark&v=2" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn,pytorch,tensorflow,powerbi" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,postman,vscode,androidstudio,jupyter,kaggle,huggingface,notepadplusplus,notion,arduino" />
+    <img src="https://skillicons.dev/icons?i=github,postman,vscode,androidstudio,jupyter,kaggle,huggingface,notepadplusplus,notion,arduino&theme=dark&v=3" />
   </a>
 </div>
 
 ### 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=docker,aws,react)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,react&theme=dark" />
+</a>
 
 ---
 ### 🤝🏻 Connect with Me!
