@@ -9,7 +9,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>✍About Me</h3>
+      <h3>About Me</h3>
       <p>
         I'm an analytical problem-solver on a clear path to becoming a <strong>Data Scientist</strong>, with a proven track record in data analysis, AI engineering, and application development.
       </p>
