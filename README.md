@@ -9,11 +9,32 @@
 </div>
 
 ---
+
+### About Me
+I'm a final-year IT Engineering student passionate about building beautiful mobile apps with Flutter and diving deep into the world of Data Science and AI. My goal is to leverage Flutter to create interactive applications that showcase the power of machine learning models.
+
+---
 ### 💻 Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,django,fastapi,pytorch,tensorflow,scikitlearn,pandas,numpy,mysql,postgresql,git,github,docker,vscode,postman,n8n)](https://skillicons.dev)
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,dart,js,flutter" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,seaborn,pytorch,tensorflow,powerbi" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,postman,vscode,androidstudio,jupyter,kaggle,huggingface,notepadplusplus,notion,arduino" />
+  </a>
+</div>
 
 ### 🌱 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=docker,aws,react)](https://skillicons.dev)
 
 ---
 ### 🤝🏻 Connect with Me!
